@@ -1,4 +1,4 @@
-env:
-  SPRING_PROFILES_ACTIVE: cloud
-  feature_welcomeEmail: true
-  feature_welcomeQueueName: WELCOME_EMAIL
+feature:
+    welcomeEmail: true
+    welcomeQueueName: WELCOME_EMAIL
+    cahce: false
