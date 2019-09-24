@@ -1,4 +1,5 @@
 feature:
-    welcomeEmail: true
+    welcomeEmail: false
     welcomeQueueName: WELCOME_EMAIL
+    cahce: false
 testmessage: userregistrationtest
