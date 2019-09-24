@@ -1,2 +1,3 @@
-feature.welcomeEmail: true
-feature.welcomeQueueName: WELCOME_EMAIL
+feature:
+    welcomeEmail: false
+    welcomeQueueName: WELCOME_EMAIL
